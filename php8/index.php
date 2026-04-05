@@ -1,7 +1,7 @@
 <?php
-$nome = "Higino Figueiredo Sessa";
+function exibir_mensagem()
+{
 
-echo $nome;
-// Vamos criar tudo de bom para nos
+echo "Ola mundo!!";
 
-?>
+}?>
