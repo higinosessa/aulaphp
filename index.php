@@ -1,5 +1,4 @@
 <?php
-$nn = "Higino Figueiredo Sessa 28";
-echo $nn;
+require_once 'connecta/processa.php';
 
 ?>
